@@ -4,3 +4,5 @@ This tool replaces textures in .Arc files for MHGU. It scans each arc in the tar
 The large file size is due to the tool requiring the NILabVIEW Runtime 2020 SP1. A version of the installer without the runtime is included if you already have it. 
 
 A readme is included in the data folder that explains how to use the tool.
+
+I am trying something different with the cert so your OS may be unhappy. Make an issue if you'd like if that occurs.
